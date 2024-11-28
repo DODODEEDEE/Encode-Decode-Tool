@@ -44,4 +44,6 @@ Run the script using Python:
    
 2. Enter the text you want to encode or decode.
 
-3. The tool will display results in all supported formats.
+3. For XOR encoding/decoding:The tool will ask for an XOR key.If you want to use the default key (42), press Enter.Otherwise, enter a custom key (integer) to use for XOR operations.
+
+4. The tool will display results in all supported formats.
