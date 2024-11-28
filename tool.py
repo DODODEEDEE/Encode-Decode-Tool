@@ -168,4 +168,4 @@ if __name__ == "__main__":
 
     print("\n=== Results ===")
     for method, result in results.items():
-        print(f"{method}: {result}\n\n")
+        print(f"{method}: {result}\n")
