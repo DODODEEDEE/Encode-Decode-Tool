@@ -27,7 +27,7 @@ A simple Python-based toolkit for encoding and decoding text in multiple formats
 Clone the repository:
    ```bash
    git clone https://github.com/DODODEEDEE/Encode-Decode-Tool
-   cd Encoding-Decoding-Tool
+   cd Encode-Decode-Tool
    ```
 Run the script using Python:
    ```bash
